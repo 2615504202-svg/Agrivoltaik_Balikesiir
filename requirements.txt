@@ -1,0 +1,7 @@
+pvlib==0.16.1
+numpy
+pandas
+matplotlib
+jupyter
+ipykernel
+pymoo

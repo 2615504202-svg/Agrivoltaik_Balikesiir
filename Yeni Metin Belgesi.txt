@@ -1,0 +1,16 @@
+Agrivoltaik_Balikesir
+│
+├── data
+│   └── raw
+│
+├── notebooks
+│
+├── figures
+│
+├── results
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── .gitignore
